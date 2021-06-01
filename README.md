@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @monika-petkova
+- 👋 Hi, I’m Monika
 - 👀 I’m interested in Web Development
 
 <!---
