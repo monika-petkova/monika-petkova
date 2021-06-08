@@ -1,5 +1,7 @@
-- 👋 Hi, I’m Monika
-- 👀 I’m interested in Web Development
+👋 Hi, I’m Monika
+👀 I’m interested in Web Development and Design
+
+PS: find me on dribbble here: https://dribbble.com/monika-petkova
 
 <!---
 monika-petkova/monika-petkova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
